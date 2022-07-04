@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChatFB/static/css/main.ec6dcf85.css",
+    "main.js": "/ChatFB/static/js/main.f684ab37.js",
+    "static/js/787.fd333685.chunk.js": "/ChatFB/static/js/787.fd333685.chunk.js",
+    "static/media/logo.svg": "/ChatFB/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ChatFB/index.html",
+    "main.ec6dcf85.css.map": "/ChatFB/static/css/main.ec6dcf85.css.map",
+    "main.f684ab37.js.map": "/ChatFB/static/js/main.f684ab37.js.map",
+    "787.fd333685.chunk.js.map": "/ChatFB/static/js/787.fd333685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6dcf85.css",
+    "static/js/main.f684ab37.js"
+  ]
+}
